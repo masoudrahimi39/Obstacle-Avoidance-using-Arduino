@@ -1,4 +1,4 @@
-# Obstacle Avoidance Robot using Arduino
+# Obstacle Avoidance using Arduino
 
 This project implements an obstacle-avoidance robot using Arduino. The robot is equipped with ultrasonic sensors to detect obstacles and stepper motors for movement. When an obstacle is detected, the robot stops to avoid a collision. The goal of this project is to demonstrate basic robotics principles and sensor integration.
 
