@@ -12,8 +12,6 @@ https://github.com/masoudrahimi39/Obstacle-Avoidance-using-Arduino/assets/655962
 
 1. **Ultrasonic Sensors**: Continuously measure the distance to nearby objects.
 2. **Obstacle Detection**: If an obstacle is detected within a predefined range, the robot stops moving.
-3. **Manual Intervention**: The robot requires manual repositioning or resetting to continue its operation.
-
 
 ### Hardware
 - Arduino (specify model, e.g., Arduino Mega)
